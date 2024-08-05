@@ -1,0 +1,32 @@
+[
+	{
+		"Nombre": "campera",
+		"descripcion": "cuero vacuno",
+		"precio": " 2000",
+		"id": 1
+	},
+	{
+		"Nombre": "campera",
+		"descripcion": "cuero vacuno",
+		"precio": " 2000",
+		"id": 2
+	},
+	{
+		"Nombre": "campera",
+		"descripcion": "cuero vacuno",
+		"precio": " 2000",
+		"id": 3
+	},
+	{
+		"Nombre": "campera",
+		"descripcion": "cuero vacuno",
+		"precio": " 2000",
+		"id": 4
+	},
+	{
+		"Nombre": "campera",
+		"descripcion": "cuero vacuno",
+		"precio": " 2000",
+		"id": 5
+	}
+]
